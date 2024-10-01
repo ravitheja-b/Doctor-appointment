@@ -1,12 +1,3 @@
-# ML-StockPrice-Prediction
-# ML-StockPrice-Prediction
-pip install -r requirements.txt
-cd models
-streamlit run chat-stockbot.py
-# bookshelf
-# bookshelf
-# Simple-JavaScript-Tasks
-# Simple-Java-xml-parser
-# Simple-php-tasks
-# petstore
+
 # Doctor-appointment
+A simple PHP app to schedule doctor appointment.Install XAMPP on windows and start Apache and MYSQL.CLone the repo into C:\XAMPP\htdocs . Launch browser and type http://localhost/Doctor-appointment
